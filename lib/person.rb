@@ -1,12 +1,12 @@
-class person
+class Person
     def talk
         puts "Hello World!"
     end
-    
+
     def walk
         puts "The Person is walking"
     end
 end
 
-adele_goldberg = person.New
-alan_kay = person.New 
+adele_goldberg = Person.new
+alan_kay = Person.new 

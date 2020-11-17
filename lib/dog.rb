@@ -1,4 +1,4 @@
-class dog
+class Dog
     def bark
         puts "Woof!"
     end
@@ -16,6 +16,6 @@ class dog
     end
 end
 
-fido = dog.New
-snoopy = dog.New
-lassie = dog.New
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
